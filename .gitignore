@@ -14,7 +14,7 @@
 !**/[Aa]ssets/**/*.meta
 
 # Ignoring Build in docs folder
-!progression-project/Build
+!docs/Build
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
